@@ -8,4 +8,13 @@ use Illuminate\Database\Eloquent\Model;
 class Dependent extends Model
 {
     use HasFactory;
+    protected $table= 'dependents';
+    
+    protected $fillable=[
+        'Essn',
+        'Dependent_name',
+        'Sex',
+        'Bdate',
+        'Relationship',
+    ];
 }

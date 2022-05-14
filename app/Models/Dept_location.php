@@ -10,4 +10,9 @@ class Dept_location extends Model
     use HasFactory;
 
     protected $table= 'dept_locations';
+
+    protected $fillable= [
+        'Dnumber',
+        'Dlocation',
+    ];
 }

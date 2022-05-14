@@ -10,4 +10,9 @@ class Woks_on extends Model
     use HasFactory;
 
     protected $table= 'woks_ons';
+    protected $fillable=[
+        'Essn',
+        'Pno',
+        'Hours',
+    ];
 }
