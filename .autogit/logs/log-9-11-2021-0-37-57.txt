@@ -1,0 +1,116 @@
+-------------------- Auto-Git Log --------------------
+		Thu Dec 09 2021 00:37:57 GMT+0200 (Eastern European Standard Time)
+------------------------------------------------------
+
+Modified files:
+* .env.example
+* app/Http/Kernel.php
+* app/Models/User.php
+* app/Providers/RouteServiceProvider.php
+* composer.json
+* composer.lock
+* config/app.php
+* config/session.php
+* database/factories/UserFactory.php
+* database/migrations/2014_10_12_000000_create_users_table.php
+* database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+* package.json
+* resources/css/app.css
+* resources/js/app.js
+* routes/web.php
+* webpack.mix.js
+
+
+Created files:
+* .autogit/autogit.json
+* app/Actions/Fortify/CreateNewUser.php
+* app/Actions/Fortify/PasswordValidationRules.php
+* app/Actions/Fortify/ResetUserPassword.php
+* app/Actions/Fortify/UpdateUserPassword.php
+* app/Actions/Fortify/UpdateUserProfileInformation.php
+* app/Actions/Jetstream/DeleteUser.php
+* app/Http/Middleware/HandleInertiaRequests.php
+* app/Providers/FortifyServiceProvider.php
+* app/Providers/JetstreamServiceProvider.php
+* config/fortify.php
+* config/jetstream.php
+* database/factories/employeeFactory.php
+* database/migrations/2014_10_12_200000_add_two_factor_columns_to_users_table.php
+* database/migrations/2021_11_26_191757_create_sessions_table.php
+* package-lock.json
+* public/css/app.css
+* public/js/app.js
+* public/mix-manifest.json
+* resources/js/Jetstream/ActionMessage.vue
+* resources/js/Jetstream/ActionSection.vue
+* resources/js/Jetstream/ApplicationLogo.vue
+* resources/js/Jetstream/ApplicationMark.vue
+* resources/js/Jetstream/AuthenticationCard.vue
+* resources/js/Jetstream/AuthenticationCardLogo.vue
+* resources/js/Jetstream/Banner.vue
+* resources/js/Jetstream/Button.vue
+* resources/js/Jetstream/Checkbox.vue
+* resources/js/Jetstream/ConfirmationModal.vue
+* resources/js/Jetstream/ConfirmsPassword.vue
+* resources/js/Jetstream/DangerButton.vue
+* resources/js/Jetstream/DialogModal.vue
+* resources/js/Jetstream/Dropdown.vue
+* resources/js/Jetstream/DropdownLink.vue
+* resources/js/Jetstream/FormSection.vue
+* resources/js/Jetstream/Input.vue
+* resources/js/Jetstream/InputError.vue
+* resources/js/Jetstream/Label.vue
+* resources/js/Jetstream/Modal.vue
+* resources/js/Jetstream/NavLink.vue
+* resources/js/Jetstream/ResponsiveNavLink.vue
+* resources/js/Jetstream/SecondaryButton.vue
+* resources/js/Jetstream/SectionBorder.vue
+* resources/js/Jetstream/SectionTitle.vue
+* resources/js/Jetstream/ValidationErrors.vue
+* resources/js/Jetstream/Welcome.vue
+* resources/js/Layouts/AppLayout.vue
+* resources/js/Pages/API/Index.vue
+* resources/js/Pages/API/Partials/ApiTokenManager.vue
+* resources/js/Pages/Auth/ConfirmPassword.vue
+* resources/js/Pages/Auth/ForgotPassword.vue
+* resources/js/Pages/Auth/Login.vue
+* resources/js/Pages/Auth/Register.vue
+* resources/js/Pages/Auth/ResetPassword.vue
+* resources/js/Pages/Auth/TwoFactorChallenge.vue
+* resources/js/Pages/Auth/VerifyEmail.vue
+* resources/js/Pages/Dashboard.vue
+* resources/js/Pages/PrivacyPolicy.vue
+* resources/js/Pages/Profile/Partials/DeleteUserForm.vue
+* resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue
+* resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue
+* resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue
+* resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue
+* resources/js/Pages/Profile/Show.vue
+* resources/js/Pages/TermsOfService.vue
+* resources/js/Pages/Welcome.vue
+* resources/markdown/policy.md
+* resources/markdown/terms.md
+* resources/views/app.blade.php
+* resources/views/frontend/employee.blade.php
+* tailwind.config.js
+* tests/Feature/ApiTokenPermissionsTest.php
+* tests/Feature/AuthenticationTest.php
+* tests/Feature/BrowserSessionsTest.php
+* tests/Feature/CreateApiTokenTest.php
+* tests/Feature/DeleteAccountTest.php
+* tests/Feature/DeleteApiTokenTest.php
+* tests/Feature/EmailVerificationTest.php
+* tests/Feature/PasswordConfirmationTest.php
+* tests/Feature/PasswordResetTest.php
+* tests/Feature/ProfileInformationTest.php
+* tests/Feature/RegistrationTest.php
+* tests/Feature/TwoFactorAuthenticationSettingsTest.php
+* tests/Feature/UpdatePasswordTest.php
+* webpack.config.js
+
+
+Deleted files:
+* resources/views/welcome.blade.php
+
+
+Renamed files:

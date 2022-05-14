@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Thu Dec 09 2021 01:06:52 GMT+0200 (Eastern European Standard Time)
+------------------------------------------------------
+
+Modified files:
+* database/factories/employeeFactory.php
+* database/seeders/DatabaseSeeder.php
+
+
+Created files:
+* .autogit/logs/log-9-11-2021-0-37-57.txt
+
+
+Deleted files:
+
+
+Renamed files:

@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Wed Dec 22 2021 23:28:30 GMT+0200 (Eastern European Standard Time)
+------------------------------------------------------
+
+Modified files:
+* app/Models/Employee.php
+* routes/api.php
+
+
+Created files:
+* .autogit/logs/log-22-11-2021-20-28-44.txt
+* app/Http/Controllers/employeeAipControler.php
+
+
+Deleted files:
+
+
+Renamed files:

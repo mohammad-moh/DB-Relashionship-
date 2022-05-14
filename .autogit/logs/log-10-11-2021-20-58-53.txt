@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 10 2021 20:58:53 GMT+0200 (Eastern European Standard Time)
+------------------------------------------------------
+
+Modified files:
+* database/migrations/2014_10_12_000000_create_users_table.php
+
+
+Created files:
+* .autogit/logs/log-10-11-2021-20-29-11.txt
+
+
+Deleted files:
+
+
+Renamed files:

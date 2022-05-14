@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Dec 10 2021 20:29:11 GMT+0200 (Eastern European Standard Time)
+------------------------------------------------------
+
+Modified files:
+* database/factories/employeeFactory.php
+
+
+Created files:
+* .autogit/logs/log-9-11-2021-1-6-52.txt
+
+
+Deleted files:
+
+
+Renamed files:
