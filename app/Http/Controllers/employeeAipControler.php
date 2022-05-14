@@ -14,7 +14,7 @@ class employeeAipControler extends Controller
      */
     public function index()
     {
-        return Employee::all();
+        
     }
 
     /**
@@ -35,7 +35,7 @@ class employeeAipControler extends Controller
      */
     public function store(Request $request)
     {
-        return Employee::create($request->all());
+        
     }
 
     /**
