@@ -10,4 +10,12 @@ class Project extends Model
     use HasFactory;
 
     protected $table = 'projects';
+
+    protected $filable=[
+        'Pname',
+        'Pnumber',
+        'Plocation',
+        'Dnum',
+        'Pname',
+    ];
 }
